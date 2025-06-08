@@ -10,7 +10,7 @@ PAPER_STYLE_PARAMS = {
 
     # Axes settings
     'axes.labelsize': 11,         # Fontsize of the x and y labels
-    'axes.titlesize': 13,         # Fontsize of the axes title
+    'axes.titlesize': 12,         # Fontsize of the axes title
     'axes.grid': True,
     'axes.linewidth': 0.8,
 
@@ -32,9 +32,9 @@ PAPER_STYLE_PARAMS = {
     'legend.fancybox': False,     # Use square corners for the legend box
 
     # Figure settings
-    'figure.figsize': (6, 4),     # Default figure size in inches (width, height)
+    'figure.figsize': (5, 4),     # Default figure size in inches (width, height)
     'figure.dpi': 300,
-    'figure.titlesize': 15,       # Fontsize of the suptitle
+    'figure.titlesize': 12,       # Fontsize of the suptitle
 
     # Line settings
     'lines.linewidth': 1.5,
