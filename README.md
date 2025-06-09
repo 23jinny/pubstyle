@@ -1,4 +1,4 @@
-# PubStyle: Publication-Quality Matplotlib Styles
+# pubstyle: Publication-Quality Matplotlib Styles
 
 `pubstyle` is a Python package providing a simple way to apply professional, publication-quality styles to your Matplotlib plots. It offers a clean default style and an easy way to enable LaTeX rendering for superior mathematical typesetting.
 
@@ -40,7 +40,7 @@ apply_paper_style()
 
 plt.figure()
 plt.plot([0, 1], [0, 1], label='My Data')
-plt.title('My Plot with PubStyle')
+plt.title('My Plot with pubstyle')
 plt.xlabel('X-axis')
 plt.ylabel('Y-axis')
 plt.legend()
