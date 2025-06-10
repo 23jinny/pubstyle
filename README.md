@@ -195,7 +195,7 @@ except RuntimeError as e:
 
 ## Contributing
 
-Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request on the project's repository (link to be added).
+Contributions are welcome! Please see our [Contributing Guidelines](CONTRIBUTING.md) for more details on how to get started.
 
 ## License
 
