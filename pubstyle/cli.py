@@ -1,7 +1,7 @@
 import argparse
 import json
-from ._style_config import PAPER_STYLE_PARAMS
-from .styling import generate_sample_plots
+from ._styles_config import PAPER_STYLE_PARAMS
+from .styles import generate_sample_plots
 
 def main():
     """CLI for publication_styles package."""

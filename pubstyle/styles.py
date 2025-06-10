@@ -1,6 +1,6 @@
 import matplotlib as mpl
 import matplotlib.pyplot as plt
-from ._style_config import PAPER_STYLE_PARAMS
+from ._styles_config import PAPER_STYLE_PARAMS
 
 def apply_paper_style(custom_params=None, use_latex=False):
     """
