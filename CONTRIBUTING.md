@@ -53,13 +53,15 @@ The project is organized as follows:
 ```text
 pubstyle/
 ├── assets/                 # Contains images for the README.
-├── docs/                   # Documentation files (like this one).
+├── docs/                   # Contains other documentation (e.g., packaging_guide.md).
 ├── pubstyle/               # The main source code for the package.
 │   ├── __init__.py         # Makes the directory a package and exposes the public API.
-│   ├── _styles_config.py    # Defines the dictionaries of style parameters.
+│   ├── _styles_config.py   # Defines the dictionaries of style parameters.
 │   ├── styles.py           # Contains the core functions that apply the styles.
 │   └── cli.py              # The command-line interface logic.
 ├── .gitignore              # Specifies files for Git to ignore.
+├── CODE_OF_CONDUCT.md      # Code of Conduct for contributors.
+├── CONTRIBUTING.md         # This contribution guide.
 ├── LICENSE                 # The project's license.
 ├── pyproject.toml          # The main configuration file for packaging and dependencies.
 └── README.md               # The main project README.

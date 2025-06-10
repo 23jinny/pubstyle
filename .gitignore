@@ -131,4 +131,4 @@ cython_debug/
 # sample_default_style_plot.png
 
 # Test LaTeX output
-test_latex.png
+# test_latex.png
